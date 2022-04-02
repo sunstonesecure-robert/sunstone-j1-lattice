@@ -8,6 +8,12 @@ Use at your own risk.
 
 ## Development
 
+TODO:
+
+* test on cli
+* test in J1 integration UI
+* test over time
+
 ### Prerequisites
 
 1. Install [Node.js](https://nodejs.org/) using the
