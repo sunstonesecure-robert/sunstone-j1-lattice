@@ -1,7 +1,10 @@
-# JupiterOne Integration
+# SunStone Secure JupiterOne-Lattice Public API Integration
 
-Learn about the data ingested, benefits of this integration, and how to use it
-with JupiterOne in the [integration documentation](docs/jupiterone.md).
+This integration pulls in data from Lattice - refer to https://developers.lattice.com/
+
+This is a work in progress. This could completely destroy all your systems and data, allow hackers in, or make cappuccino. 
+Or do nothing.
+Use at your own risk.
 
 ## Development
 
